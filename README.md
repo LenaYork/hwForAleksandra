@@ -9,7 +9,7 @@
 
 5 написать функцию, которая принимает 1 параметр (массив чисел) и выводит СУММУ этих чисел.
 
-6 Написать 1 вопрос-тест. Пусть он выглядит примерно так:
+6 Написать 1 вопрос-тест. Пусть он выглядит примерно так:  ![image](https://user-images.githubusercontent.com/20025262/227644616-2f1f0469-140e-4158-b570-fc42c1a567f8.png)
 Только один из вариантов верный. Когда пользователь нажимает на него, проигрывается музыка аплодисментов. Если юзер выбирает неправильный ответ – играет звук проигрыша
 
 Где можно скачать звуки:
@@ -18,4 +18,5 @@ https://zvukipro.com/audio/878-zvuki-provala-neudachi-porazhenija-fejla.html
 https://zvukipro.com/zvukiludei/1254-zvuki-radosti-i-schastja-ljudej.html 
 
 7 ознакомиться с видами комментов в коммитах  (первая табличка по ссылке, изучаем только fix, feat, test, style, doc, refactor): https://github.com/pvdlg/conventional-commit-types
+
 
