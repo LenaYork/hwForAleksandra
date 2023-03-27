@@ -20,3 +20,6 @@ https://zvukipro.com/zvukiludei/1254-zvuki-radosti-i-schastja-ljudej.html
 7 ознакомиться с видами комментов в коммитах  (первая табличка по ссылке, изучаем только fix, feat, test, style, doc, refactor): https://github.com/pvdlg/conventional-commit-types
 
 
+Еще о типах коммитов с примерами:
+
+https://docs.rs.school/#/git-convention
