@@ -12,7 +12,7 @@
 Примерная реализация: https://lenayork.github.io/momentum/
 
 
-2 Форкнуть себе репозиторий:
+2 Форкнуть себе репозиторий: https://github.com/LenaYork/jsFunctions
 
 и решить задачи в нем.
 
