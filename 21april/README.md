@@ -20,4 +20,4 @@
 https://github.com/rolling-scopes-school/tasks/blob/master/stage1/modules/clean-code/materials/generic-principles.md 
 Обратите внимание на ссылки в конце этой статьи
 
-3 Форкнуть репозиторий (чуть позже тут появится на него ссылка), решить задачи и залить решение себе в репозиторий. 
+3 Форкнуть репозиторий https://github.com/LenaYork/functionTasks, решить задачи и залить решение себе в репозиторий. 
