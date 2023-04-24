@@ -21,3 +21,22 @@ https://github.com/rolling-scopes-school/tasks/blob/master/stage1/modules/clean-
 Обратите внимание на ссылки в конце этой статьи
 
 3 Форкнуть репозиторий https://github.com/LenaYork/functionTasks, решить задачи и залить решение себе в репозиторий. 
+
+Дополнение к домашнему заданию на 25 апреля:
+
+Перед вами фрагмент с вебсайта американского мобильного оператора Verizon (https://www.verizon.com/) Ваша задача сверстать похожий фрагмент (фото, подписи и фон - на ваш выбор). ![image](https://user-images.githubusercontent.com/20025262/233963620-2449cfa3-61c6-4346-b981-dc323ea0c1ba.png)
+
+После десктопной верстки попробуйте добавить еще 2 медиазапроса:
+
+для верстки под планшетные устройства (выглядеть может вот так) ![image](https://user-images.githubusercontent.com/20025262/233964020-09a102c0-3e83-4e1c-9fe8-a0b85f638a88.png)
+
+для верстки под мобильные устройства (все 4 карточки выстроятся в одну колонку) ![image](https://user-images.githubusercontent.com/20025262/233964122-9c2bf500-644b-42cb-b1b9-ab77fe6153fe.png)
+
+
+Подсказка: в результате у вас должен получиться 1 файл html и 1 файл css.  Не нужно делать 3 варианта одного сайта, нужны именно медиазапросы. 
+
+Шпаргалка по медиазапросам:
+
+![image](https://user-images.githubusercontent.com/20025262/233964412-23d764b3-9479-447e-90ba-e3c11d165eff.png)
+![image](https://user-images.githubusercontent.com/20025262/233964472-0e6a79f3-3abe-45db-ad60-6d29b4542c3b.png)
+
